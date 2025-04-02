@@ -13,7 +13,7 @@ I'm passionate about programming and always looking for new challenges and learn
 
 💻 **Constantly evolving**, always curious to understand how things work and how I can improve my skills.
 
-Let's collaborate and learn together! 
+Let's collaborate and learn together! 🌟
 
 ## My Projects
 
@@ -24,3 +24,8 @@ A web app that lets you search for music on Google and display the results in a 
 
 ### [Weather App](https://github.com/paulosrgf/weather-app)
 A weather app that provides current weather information based on the user's location or a search query, using a weather API.
+
+## GitHub Stats
+
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulosrgf&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
