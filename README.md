@@ -15,3 +15,12 @@ I'm passionate about programming and always looking for new challenges and learn
 
 Let's collaborate and learn together! 🌟
 
+## My Projects
+
+Here are some of my main projects on GitHub:
+
+### [Google Music Search](https://github.com/paulosrgf/Google-Music-Search)
+A web app that lets you search for music on Google and display the results in a clean and organized way.
+
+### [Weather App](https://github.com/paulosrgf/weather-app)
+A weather app that provides current weather information based on the user's location or a search query, using a weather API.
