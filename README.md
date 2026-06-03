@@ -59,6 +59,13 @@ DevOps Engineer & FullStack Developer with 5+ years of engineering experience. F
 ## Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 27 May 2026 - To: 03 June 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > ⚙️ **Setup:** Accounts registered via [wakatime.com](https://wakatime.com) utilize the local VS Code engine extension paired with the upstream [Waka Readme](https://github.com/athul/waka-readme) workflow infrastructure to dynamically compute and update telemetry metrics.
