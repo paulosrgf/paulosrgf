@@ -74,7 +74,7 @@ No activity tracked
 
 ## Projects
 
-**[ABRASEL CSPR](https://github.com/paulosrgf/abraselcspr)**
+**[Abrasel CSPR](https://github.com/paulosrgf/abraselcspr)**
 Institutional web portal for Abrasel CSPR featuring a clean interface to manage and showcase regional gastronomic sector data, events, and member services.
 `JavaScript` `React` `Tailwind` `Next.js` `Vercel` 
 
