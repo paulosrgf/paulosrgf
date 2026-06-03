@@ -61,7 +61,7 @@ DevOps Engineer & FullStack Developer with 5+ years of engineering experience. F
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> ⚙️ **Setup:** Create a free account at [wakatime.com](https://wakatime.com), install the VS Code extension, then add the [Waka Readme](https://github.com/athul/waka-readme) GitHub Action to populate this section automatically.
+> ⚙️ **Setup:** Accounts registered via [wakatime.com](https://wakatime.com) utilize the local VS Code engine extension paired with the upstream [Waka Readme](https://github.com/athul/waka-readme) workflow infrastructure to dynamically compute and update telemetry metrics.
 
 ---
 
