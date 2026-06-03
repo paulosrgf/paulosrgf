@@ -14,7 +14,7 @@
 
 ## About
 
-Developer focused on building reliable software — from clean frontends to containerized backend services. Growing at the intersection of fullstack development and DevOps, with hands-on experience in Docker, CI/CD pipelines, and cloud fundamentals.
+DevOps Engineer & FullStack Developer with 5+ years of engineering experience. Focused on infrastructure automation, multi-container orchestration (Docker), CI/CD pipelines, and architecting reliable distributed backend systems.
 
 - 🎓 Studying **Technology in Systems for the Internet (TSI)**
 - 🐳 Building and deploying with **Docker** and container workflows
@@ -33,12 +33,16 @@ Developer focused on building reliable software — from clean frontends to cont
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -63,16 +67,16 @@ Developer focused on building reliable software — from clean frontends to cont
 
 ## Projects
 
-**[Google Music Search](https://github.com/paulosrgf/Google-Music-Search)**
-Web app for searching music via Google with a clean, organized results interface.
-`JavaScript` `React` `REST API`
+**[ABRASEL CSPR](https://github.com/paulosrgf/abraselcspr)**
+Institutional web portal for Abrasel CSPR featuring a clean interface to manage and showcase regional gastronomic sector data, events, and member services.
+`JavaScript` `React` `Tailwind` `Next.js` `Vercel` 
 
-**[Weather App](https://github.com/paulosrgf/weather-app)**
+**[Riftscope](https://github.com/paulosrgf/riftscope)**
 Real-time weather conditions by location or search query using a weather API.
-`JavaScript` `React` `Geolocation API`
+`JavaScript` `Docker` ` Node.js` `Express` `Redis` `GitHub Actions` `Axios`
 
 ---
 
 <div align="center">
-<sub>Open to junior opportunities in Fullstack Development and DevOps Engineering.</sub>
+<sub>Open to junior & mid-level opportunities in Fullstack Development and DevOps Engineering.</sub>
 </div>
