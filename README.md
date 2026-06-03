@@ -1,0 +1,78 @@
+<div align="center">
+
+# Paulo Sergio
+
+**Junior Fullstack Developer & DevOps Engineer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Junior+Fullstack+Developer;Junior+DevOps+Engineer;Containerizing+%7C+Automating+%7C+Shipping)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=paulosrgf&color=1D9E75&style=flat-square&label=profile+views)
+
+</div>
+
+---
+
+## About
+
+Developer focused on building reliable software — from clean frontends to containerized backend services. Growing at the intersection of fullstack development and DevOps, with hands-on experience in Docker, CI/CD pipelines, and cloud fundamentals.
+
+- 🎓 Studying **Technology in Systems for the Internet (TSI)**
+- 🐳 Building and deploying with **Docker** and container workflows
+- ☁️ Exploring **AWS** cloud infrastructure and services
+- 🔁 Automating with **GitHub Actions** and CI/CD pipelines
+- 🌐 Developing fullstack apps with **React** and **Node.js**
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> ⚙️ **Setup:** Create a free account at [wakatime.com](https://wakatime.com), install the VS Code extension, then add the [Waka Readme](https://github.com/athul/waka-readme) GitHub Action to populate this section automatically.
+
+---
+
+## Projects
+
+**[Google Music Search](https://github.com/paulosrgf/Google-Music-Search)**
+Web app for searching music via Google with a clean, organized results interface.
+`JavaScript` `React` `REST API`
+
+**[Weather App](https://github.com/paulosrgf/weather-app)**
+Real-time weather conditions by location or search query using a weather API.
+`JavaScript` `React` `Geolocation API`
+
+---
+
+<div align="center">
+<sub>Open to junior opportunities in Fullstack Development and DevOps Engineering.</sub>
+</div>
