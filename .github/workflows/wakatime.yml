@@ -1,0 +1,26 @@
+name: WakaTime Readme Sync
+
+on:
+  schedule:
+    # Dispara a sincronização a cada 6 horas via cron padrão POSIX
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Permite inicialização manual através da interface do GitHub
+
+jobs:
+  update-readme:
+    name: Sync WakaTime Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Waka Section in README
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: 🟩🟨🟧
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
