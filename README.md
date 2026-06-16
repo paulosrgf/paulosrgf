@@ -61,13 +61,13 @@ FullStack Developer & DevOps Engineer with a strong track record in combining so
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2026 - To: 15 June 2026
+From: 09 June 2026 - To: 16 June 2026
 
-JavaScript   1 hr 19 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩   61.82 %
-PHP          23 mins               🟧🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   18.37 %
-Markdown     13 mins               🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   10.49 %
-JSON         6 mins                🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   05.45 %
-Other        2 mins                🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   01.95 %
+PHP          1 hr 51 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   46.88 %
+JavaScript   1 hr 19 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   33.36 %
+Markdown     21 mins               🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   09.06 %
+Rust         13 mins               🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   05.68 %
+JSON         6 mins                🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   02.94 %
 ```
 
 <!--END_SECTION:waka-->
