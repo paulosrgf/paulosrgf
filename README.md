@@ -12,17 +12,23 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
-FullStack Developer & DevOps Engineer with a strong track record in combining software engineering with infrastructure automation. Focused on modern architecture, multi-container orchestration, and building robust, scalable systems across multiple tech stacks.
+Fullstack Developer & DevOps Engineer studying Internet Systems
+Technology at UTFPR, with real-world experience in freelance
+projects and open source contributions.
 
-- 🎓 Studying **Technology in Systems for the Internet at UTFPR (TSI)**
-- 🐳 Architecting and provisioning multi-container environments using **Docker**
-- ☁️ Designing and deploying scalable cloud infrastructure on **AWS**
-- 🔁 Engineering automated CI/CD pipelines with **GitHub Actions**, **Gitlab CI/CD** 
-- 🚀 Developing fullstack apps with modern ecosystems like **Node.js**, **Laravel (PHP)**, and **Ruby on Rails**
-- 🌐 Crafting dynamic, responsive interfaces using **React**, **TypeScript**, and **Angular**
----
+I deliver from the interface to the infrastructure: Docker
+containerization, CI/CD pipelines with GitHub Actions and
+GitLab, AWS deployments, and Kubernetes orchestration.
+
+I've built institutional portals for real clients and backend
+systems using Node.js, Laravel, Rails, and React — always
+focused on automation, observability, and reproducible
+environments.
+
+Currently looking for a DevOps / Cloud internship to go deeper
+into infrastructure and continuous delivery culture.
 
 ## Tech Stack
 
