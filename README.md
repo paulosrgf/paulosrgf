@@ -67,13 +67,13 @@ into infrastructure and continuous delivery culture.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-JavaScript                 1 hr 34 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   44.90 %
-CSS                        31 mins               🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   14.86 %
-HTML                       28 mins               🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   13.55 %
-YAML                       20 mins               🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   09.60 %
-Bash                       12 mins               🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   06.15 %
+JavaScript                 1 hr 15 mins          🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   49.53 %
+YAML                       20 mins               🟧🟧🟧🟨🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   13.33 %
+CSS                        18 mins               🟧🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   12.13 %
+Bash                       12 mins               🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   08.54 %
+JSON                       12 mins               🟧🟧🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   08.12 %
 ```
 
 <!--END_SECTION:waka-->
